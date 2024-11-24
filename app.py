@@ -50,7 +50,7 @@ if page == "AI Project":
 # Homepage
 if page == "Homepage":
     st.title("Welcome to My Portfolio!")
-    st.image("https://a.storyblok.com/f/178900/750x519/3e36408a6a/a0aad0b1709b8e2808c8b34688d8472a1639560776_main.jpg/m/filters:quality(95)format(webp)", caption="Your Amazing Banner Image", use_column_width=True)
+    st.image("https://www.pigeonforgetncabins.com/wp-content/uploads/2015/06/experience-at-titanic-pigeon-forge.jpg", caption="Your Amazing Banner Image", use_column_width=True)
     st.write("""
     Hi! I'm [Your Name], a passionate [Your Profession] with expertise in [Your Skills or Specializations].
     
